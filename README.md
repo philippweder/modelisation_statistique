@@ -1,4 +1,4 @@
-# Modelisation_statistique
+# Modélisation statistique
 Ce fichier contient toutes les données utilisées au cours du projet final du cours MAP565 modélisation statistique.
 
 ## Données financières
